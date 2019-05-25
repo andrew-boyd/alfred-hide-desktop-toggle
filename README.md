@@ -1,5 +1,5 @@
 # Alfred Hide Desktop Toggle
-An Alfred action to toggle the visibility of desktop icons in macOS
+An [Alfred](https://www.alfredapp.com/) action to toggle the visibility of desktop icons in macOS
 
 # Installation
 Download the file and execute it, Alfred should then add it to your list of workflows.
