@@ -1,5 +1,5 @@
 # Alfred Hide Desktop Toggle
-An [Alfred](https://www.alfredapp.com/) action to toggle the visibility of desktop icons in macOS.
+An [Alfred](https://www.alfredapp.com/) workflow to toggle the visibility of desktop icons in macOS.
 
 All of the existing workflows I found relied on typing out commands to explicitly state if you wanted to show or hide the desktop icons. I think that's silly. Instead, this workflow first looks up whether the desktop is currently hidden, and then uses that data to do the opposite. No typing out explicit commands, just use the same keyboard shortcut to toggle the desktop on and off. Easy peasy.
 
